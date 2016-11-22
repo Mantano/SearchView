@@ -196,7 +196,7 @@ class SearchAnimator {
         });
 
         view.setAnimation(anim);
-        view.setVisibility(View.GONE);
+//        view.setVisibility(View.GONE);
     }
 
 }
